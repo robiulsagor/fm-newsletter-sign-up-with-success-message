@@ -101,10 +101,27 @@ form {
   margin-top: 0.4rem;
 }
 
-form label {
+.form-label-error {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 0.2rem;
   font-size: 0.7rem;
   font-weight: bold;
+}
+
+form label {
   color: var(--blue-700);
+}
+
+/* the error message showing before the input field */
+.error-message {
+  color: var(--red);
+  display: none;
+}
+/* show the error message when there is an error */
+.show {
+  display: block;
 }
 
 form input {
@@ -115,6 +132,13 @@ form input {
   border: 1px solid var(--grey);
   outline: none;
   font-size: 0.9rem;
+}
+
+/* this is to add in the input field if there is error ie. invalid email */
+.error {
+  border: 1px solid var(--red);
+  background: #c11a1a1e;
+  color: var(--red);
 }
 
 form button,
