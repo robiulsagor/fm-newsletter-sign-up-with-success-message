@@ -36,7 +36,7 @@ body {
   align-items: center;
   justify-content: center;
   padding: 2rem 0;
-  background: var(--blue-800);
+  background: var(--blue-700);
 }
 
 /* hide the newsletter form when click on the submit button */
