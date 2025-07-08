@@ -203,7 +203,7 @@ form button:hover,
   font-size: 0.8rem;
 }
 
-.success-msg__text #email {
+.success-msg__text #email-value {
   font-family: "Roboto Bold", serif;
   font-weight: 700;
 }
