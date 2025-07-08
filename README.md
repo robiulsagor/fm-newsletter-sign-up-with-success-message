@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-<!-- - Solution URL: [Add solution URL here](https://your-solution-url.com) -->
+- Solution URL: [https://www.frontendmentor.io/solutions/newsletter-signup-form-GoonBVUBaT](https://www.frontendmentor.io/solutions/newsletter-signup-form-GoonBVUBaT)
 - Live Site URL: [https://fm-newsletter-sign-up-with-success.vercel.app/](https://fm-newsletter-sign-up-with-success.vercel.app/)
 
 ## My process
